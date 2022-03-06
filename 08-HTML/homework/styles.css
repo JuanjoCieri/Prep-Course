@@ -1,0 +1,21 @@
+
+#divClass > h1 {
+    color: brown;    
+}
+
+#thirdDiv > ul > li > img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: grey;
+    padding: 50px;
+    border: 4px solid black;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
